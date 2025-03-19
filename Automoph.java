@@ -12,6 +12,7 @@ public class Automoph {
                 break;
             }
             n/=10;
+            sq/=10;
         }
         if(flag){
             System.out.println("it is a automorphic");
